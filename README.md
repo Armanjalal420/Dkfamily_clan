@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>کلن DK Family | کالاف دیوتی موبایل</title>
+  <title>کلن RK Family | کالاف دیوتی موبایل</title>
   <style>
     body {
       font-family: 'Tahoma', sans-serif;
@@ -99,8 +99,8 @@
 <body>
 
   <header>
-    <h1>DK Family - کالاف دیوتی موبایل</h1>
-    <p>به کلن حرفه‌ای DK Family خوش آمدید!</p>
+    <h1>RK Family - کالاف دیوتی موبایل</h1>
+    <p>به کلن حرفه‌ای RK Family خوش آمدید!</p>
   </header>
 
   <nav>
@@ -111,9 +111,9 @@
   </nav>
 
   <section id="about">
-    <h2>درباره DK Family</h2>
+    <h2>درباره RK Family</h2>
     <p>
-      DK Family یک کلن حرفه‌ای و قدرتمند در بازی Call of Duty Mobile است که با افتخار جزو بهترین تیم‌های رقابتی ایران قرار دارد. اعضای ما بازیکنان حرفه‌ای با هماهنگی بالا هستند که در مودهای مختلف مانند Multiplayer و Battle Royale عملکرد درخشانی دارند.
+      RK Family یک کلن حرفه‌ای و قدرتمند در بازی Call of Duty Mobile است که با افتخار جزو بهترین تیم‌های رقابتی ایران قرار دارد. اعضای ما بازیکنان حرفه‌ای با هماهنگی بالا هستند که در مودهای مختلف مانند Multiplayer و Battle Royale عملکرد درخشانی دارند.
     </p>
   </section>
 
@@ -144,7 +144,7 @@
   </section>
 
   <footer>
-    © 2025 کلن DK Family. تمام حقوق محفوظ است.
+    © 2025 کلن RK Family. تمام حقوق محفوظ است.
   </footer>
 
   <script>
